@@ -1,0 +1,27 @@
+{
+  "name": "gia-node-alt",
+  "version": "2.0.0",
+  "description": "Convenience packaging for accessing GIA API endpoints within Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacockj/gia-node-alt.git"
+  },
+  "keywords": [
+    "GIA",
+    "API",
+    "Node"
+  ],
+  "author": "GIA Map LLC / LakeHawk Solutions LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lacockj/gia-node-alt/issues"
+  },
+  "homepage": "https://github.com/lacockj/gia-node-alt#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
