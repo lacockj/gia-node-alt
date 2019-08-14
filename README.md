@@ -7,7 +7,7 @@ Replaces `gia-node` while under maintenance.
 First you need to create an object with your assigned API key
 
 ```
-const Gia = require('gia-node');
+const Gia = require('gia-node-alt');
 const { API_KEY } = process.env;
 
 const gia = new Gia(API_KEY);
